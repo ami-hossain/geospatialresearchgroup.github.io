@@ -1,1 +1,1 @@
-# geospatialresearchgroup.github.io
+# geospatialresearchgroup
